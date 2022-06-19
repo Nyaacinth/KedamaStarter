@@ -1,6 +1,6 @@
 # 好耶，是新人）
 
-本指南意在为新玩家提供在 毛玉线圈物语 愉快游玩的指导。随游戏设定及版本更新本指南可能会有必要进行改写，最新信息请在官网即 https://craft.moe 查询，本指南开源于 https://github.com/Nyaacinth/KedamaStarter ，欢迎各位玩家协力完善。
+本指南意在为新玩家提供在毛玉线圈物语愉快游玩的指导。随游戏设定及版本更新本指南可能会有必要进行改写，最新信息请在官网即 https://craft.moe 查询，本指南开源于 https://github.com/Nyaacinth/KedamaStarter ，欢迎各位玩家协力完善。
 
 # 取得联系
 
